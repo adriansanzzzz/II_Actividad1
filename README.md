@@ -20,7 +20,7 @@ He optado por añadir un cubo.
 1. `Window`.
 3. `Package Manager`.
 4. `My assets`.
-5. Como en clase se incluyó el Starter Assets - Third Person Character Controller, al importar este se crea y se importa la carpeta.
+5. Como en clase se incluyó el Starter Assets - Third Person Character Controller, al importar este se ya se importa el paquete.
 <img width="734" alt="image" src="https://github.com/adriansanzzzz/II_Actividad1/assets/74414073/4eb209d1-5123-4bc6-84c6-4368b9e7e3e9">
 
 
