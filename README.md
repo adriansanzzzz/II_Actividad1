@@ -33,11 +33,17 @@ He buscado por la Asset Store y he decidido añadir un árbol  https://assetstor
 4. `My assets`.
 5. Busco y lo importo.
 
+<img width="734" alt="image" src="https://github.com/adriansanzzzz/II_Actividad1/assets/74414073/c7af3f19-6e42-44e8-97f2-1229ab9d4818">
+
+
 ### Crear un terreno 
 1. `GameObject`.
 3. `3D Object`.
 4. `Terrain`.
 Y le he dado una textura a traves de una imagen que incluia el paquete de los arboles, arrastrandole al terreno.
+
+<img width="1046" alt="image" src="https://github.com/adriansanzzzz/II_Actividad1/assets/74414073/f91f3aee-0000-42cd-a0cc-8047f1f365b8">
+
 
 ### Asignar una etiqueta a cada objeto para su identificación. 
 Desde el menú de jerarquia del proyecto, he ido seleccionado uno a uno y añadiendoles un Tag.
