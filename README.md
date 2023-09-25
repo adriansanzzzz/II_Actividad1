@@ -17,15 +17,19 @@ He optado por añadir un cubo.
 4. `Cubo`.
 
 ###  Incluir en el proyecto el paquete "Starter Assets".
-He descargado la Asset Store el paquete de Starter Assets - Third Person Character.
-A continuación, 
 1. `Window`.
 3. `Package Manager`.
 4. `My assets`.
-5. Busco el Starter Assets - Third Person Character y lo importo.
+5. Como en clase se incluyó el Starter Assets - Third Person Character Controller, al importar este se crea y se importa la carpeta.
+<img width="734" alt="image" src="https://github.com/adriansanzzzz/II_Actividad1/assets/74414073/4eb209d1-5123-4bc6-84c6-4368b9e7e3e9">
+
 
 ### Incluir un objeto de la Asset Store que no sea de los "Starter Assets".
 He buscado por la Asset Store y he decidido añadir un árbol  https://assetstore.unity.com/packages/3d/vegetation/trees/urp-tree-models-253340
+1. `Window`.
+3. `Package Manager`.
+4. `My assets`.
+5. Busco y lo importo.
 
 ### Crear un terreno 
 1. `GameObject`.
