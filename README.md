@@ -11,7 +11,7 @@
 - Agregar un script que escriba en la consola los objetos utilizados.
 
 ### Incluir objetos 3D básicos.
-He optado por añadir un cubo. 
+He optado por añadir un cubo como en clase.
 1. `GameObject`.
 3. `3D Object`.
 4. `Cubo`.
