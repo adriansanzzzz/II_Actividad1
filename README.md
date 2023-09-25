@@ -82,7 +82,7 @@ Al hacer public el string nombre, nos permite editar directamente desde Unity el
 
 El script nombra los objetos que hay cada vez que se actualiza el frame.
 
-##GIF DEL FUNCIONAMIENTO
+## GIF DEL FUNCIONAMIENTO
 ![gifv2](https://github.com/adriansanzzzz/II_Actividad1/assets/74414073/8a253271-e335-439f-a6e7-013bb940e1ec)
 
 
