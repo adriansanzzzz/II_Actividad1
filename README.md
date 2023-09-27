@@ -17,12 +17,12 @@ He optado por añadir un cubo como en clase.
 4. `Cubo`.
 
 ###  Incluir en el proyecto el paquete "Starter Assets".
-Buscar en la Asset Store el paquete Starter Assets - Third Person Character Controller.
+He buscado en la Asset Store el paquete Starter Assets - Third Person Character Controller.
 En Unity:
 1. `Window`.
 3. `Package Manager`.
 4. `My assets`.
-5.  Busco Starter Assets - Third Person Character Controller y lo descargo.
+5.  Finalmente, busco Starter Assets - Third Person Character Controller y lo descargo.
 <img width="734" alt="image" src="https://github.com/adriansanzzzz/II_Actividad1/assets/74414073/4eb209d1-5123-4bc6-84c6-4368b9e7e3e9">
 
 
